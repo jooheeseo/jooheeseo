@@ -1,7 +1,7 @@
 # Site
-title:              SEO GIEK YEON
+title:              SEO JOO HEE
 bio:                'Take a tour of career portfolio.'
-description:        "Seogiekyeon's career portfolio."
+description:        "Seojoohee's career portfolio."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -9,7 +9,7 @@ id_photo:           'assets\img\id_photo.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://seogiekyeon.github.io/
+url:                https://seojoohee.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -38,14 +38,14 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:               rmrdus1@naver.com
+email:               she4408@gmail.com
 #twitter:            username
 #facebook:           username
-github-url:         seogiekyeon
+github-url:         seojoohee
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          uygnim.m.i
+instagram:          uuzoes.m.i
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
